@@ -1,2 +1,3 @@
 # DSG
-A densest subgraph approach that builds on the greedy technique
+A densest subgraph based approach to partition co-review graphs into worker controlled components.
+
